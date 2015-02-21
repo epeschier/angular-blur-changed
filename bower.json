@@ -1,0 +1,21 @@
+{
+  "author": "Erik Peschier",
+  "name": "angular-blur-changed-directive",
+  "description": "Angular blur changed directive",
+  "version": "1.0.0",
+  "homepage": "https://github.com/epeschier/angular-blur-changed",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/epeschier/angular-blur-changed"
+  },
+  "main": "./src/blur-changed-directive.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "devDependencies": {
+    "angular": "~1.3.8",
+    "angular-mocks": "~1.3.8"
+  }
+}
