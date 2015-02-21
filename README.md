@@ -1,7 +1,7 @@
 # angular-blur-changed
 Angular directive that fires an event on blur and changed.
 
-[![NPM](https://img.shields.io/npm/v/blur-changed-directive.svg)](https://www.npmjs.com/package/blur-changed-directive)
+[![NPM](https://img.shields.io/npm/v/angular-blur-changed.svg)](https://www.npmjs.com/package/angular-blur-changed)
 
 This is a simple directive that will trigger a function when an input element is blurred AND the value has changed.
 
