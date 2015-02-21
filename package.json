@@ -15,7 +15,7 @@
     "karma-jasmine": "^0.3.2"
   },
   "directories": {
-    "example": "example",
+    "example": "example"
   },
   "repository": {
     "type": "git",
